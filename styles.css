@@ -1,0 +1,38 @@
+body{
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+img{
+    width: 200px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+p{
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+button{
+    background: white;
+    color: black;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+button:hover{
+    background:rgb(62, 12, 69);
+    color: white;
+}
+
+#error{
+    color: red;
+    font-weight: lighter;
+}
