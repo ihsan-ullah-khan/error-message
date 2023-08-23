@@ -1,7 +1,7 @@
 let errorParagraph = document.getElementById("error")
 
 function displayError(){
-    errorParagraph.textContent = "Something went worng, please try again"
+    errorParagraph.textContent = "Something went wrong, please try again"
 }
 
 let num1 = 8
